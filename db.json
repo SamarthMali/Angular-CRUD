@@ -1,0 +1,59 @@
+{
+  "productList": [
+    {
+      "productName": "First Product",
+      "category": "Vegetable",
+      "freshness": "Brand New",
+      "price": "100",
+      "comment": "Something New",
+      "date": "2023-08-23T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Another Second Product",
+      "category": "Vegetable",
+      "freshness": "refurbished",
+      "price": "100",
+      "comment": "Another New Product",
+      "date": "2023-08-16T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Another Fourth Product",
+      "category": "Vegetable",
+      "freshness": "second hand",
+      "price": "1000",
+      "comment": "Another Foruth",
+      "date": "2023-08-29T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Another FIfth",
+      "category": "Electronic",
+      "freshness": "second hand",
+      "price": "299",
+      "comment": "Another Fifth Product\n",
+      "date": "2023-08-21T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Another Sixth",
+      "category": "Electronic",
+      "freshness": "second hand",
+      "price": "399",
+      "comment": "Another Sixth Product",
+      "date": "2023-08-24T18:30:00.000Z",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
